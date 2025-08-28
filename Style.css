@@ -1,8 +1,8 @@
 /* Estilos generales */
 :root {
-    --primary-color: #1d6392;
-    --secondary-color: #2c3e50;
-    --text-color: #333333;;
+    --primary-color: #pink;
+    --secondary-color: #azul claro;
+    --text-color: #negro;;
     --background-color: #f4f4f4;
     --light-gray: #ecf0f1;
 }
@@ -20,7 +20,7 @@ body {
 
 .header {
     background: var(--secondary-color);
-    color: white;
+    color: rosa claro;
     padding: 1rem 0;
     position: fixed;
     width: 100%;
@@ -211,4 +211,5 @@ body {
     .list li {
         text-align: center;
     }
+
 }
